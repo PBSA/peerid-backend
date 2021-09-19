@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "awilix": "^4.2.1",
-    "axios": "^0.21.0",
+    "axios": "^0.21.2",
     "bcrypt": "^5.0.1",
     "bignumber.js": "^9.0.0",
     "body-parser": "^1.18.3",
